@@ -12,7 +12,7 @@ USEAGE
 To run Tripoggan open the folder in the text editor of your choice, then type "ruby config/environment.rb". Using Tripoggan is simple. Sign in by entering your userName or create a new one. Then learn about about countries, plan your budget, enter notes about your travels and view all your awesome trips!
 
 CONTRIBUTING
-Dave Boemer
+Dave Boehmer
 Patrick Candlin
 
 
